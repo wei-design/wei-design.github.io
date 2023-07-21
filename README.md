@@ -20,3 +20,11 @@ a vite plugin, define dynamic env variables in import.meta.env
 [demo](https://github.com/wforguo/vue3-quick-start/blob/master/vitest.config.ts)
 
 [预览](https://wforguo.github.io/vue3-quick-start/)
+
+## @wei_design/we-cli
+
+[![Wei Design](https://img.shields.io/npm/v/@wei_design/we-cli.svg?style=flat-square)](https://www.npmjs.org/package/@wei_design/we-cli)
+
+we-cli, a node cli tool for wei_design
+
+[快速开始](https://www.npmjs.com/package/@wei_design/we-cli)
